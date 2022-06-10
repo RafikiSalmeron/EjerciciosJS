@@ -8,6 +8,8 @@ var rango = document.getElementById("rango");
 $(document).ready(function () {
     intON.style.visibility = "hidden";
     bombON.style.visibility = "hidden";
+    rango.style.visibility = "hidden";
+
     anadirClicks();
 });
 
