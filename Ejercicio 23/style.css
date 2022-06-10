@@ -1,0 +1,45 @@
+div{
+  width:70vw;
+  height: 20vh;
+  background-color: rgb(234, 150, 101);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+div>div{
+  width:50%;
+  height: 10vh;
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button{
+  background-color: rgb(243, 71, 71);
+  color: white;
+  width: 10%;
+  height: 60px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  cursor: pointer;
+}
+img {
+  width: 20%;
+  height: 15vh;
+}
