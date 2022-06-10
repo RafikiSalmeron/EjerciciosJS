@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+#boff, #bon{
+  position: fixed;
+  top: 10px;
+  left: 100px;
+  cursor: pointer;
+}
+#on{
+  position: fixed;
+}
